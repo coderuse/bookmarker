@@ -1,8 +1,40 @@
 {
   "name": "bookmarker",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "Free online bookmark manager with Google Drive sync. Organize your bookmarks in tabs, access across devices, and keep your favorite websites organized.",
+  "author": {
+    "name": "Arnab Das",
+    "email": "arnab@coderuse.com",
+    "url": "https://coderuse.com"
+  },
+  "license": "MIT",
+  "homepage": "https://coderuse.github.io/bookmarker/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderuse/bookmarker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/coderuse/bookmarker/issues"
+  },
+  "keywords": [
+    "bookmark manager",
+    "free bookmarks",
+    "organize bookmarks",
+    "bookmark tabs",
+    "sync bookmarks",
+    "Google Drive bookmarks",
+    "website organizer",
+    "browser bookmarks",
+    "bookmark tool",
+    "save websites",
+    "bookmark sync",
+    "cross device bookmarks",
+    "free bookmark app",
+    "bookmark organizer",
+    "manage favorites"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

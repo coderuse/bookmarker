@@ -1,32 +1,32 @@
-# React Starter Template
+# Bookmarker - Free Online Bookmark Manager
 
-A modern, feature-rich React TypeScript starter template with a comprehensive tech stack for building robust web applications.
+A free, modern bookmark manager with Google Drive sync. Organize your bookmarks in tabs, access them across all devices, and keep your favorite websites organized. Always free, no ads.
 
-## 🚀 Features
+## 🚀 Key Features
 
-### Core Technologies
-- **React 18** - Latest version with modern features
-- **TypeScript** - Type safety and better developer experience
-- **Vite** - Fast build tool and development server
-- **React Router** - Client-side routing for single-page applications
+### 📚 Bookmark Organization
+- **Tab-based Organization** - Create multiple tabs to categorize your bookmarks (Work, Personal, Learning, etc.)
+- **Unlimited Bookmarks** - Add as many bookmarks as you need, completely free
+- **Quick Actions** - Copy URLs, delete bookmarks, and organize with ease
+- **Search & Filter** - Find your bookmarks instantly
 
-### UI & Styling
-- **Ant Design** - Professional React UI library with rich components
-- **SCSS/Sass** - Enhanced CSS with variables, mixins, and nested selectors
-- **Responsive Design** - Mobile-first approach with media queries
+### ☁️ Cloud Sync & Access
+- **Google Drive Sync** - Securely sync your bookmarks across all devices
+- **Cross-device Access** - Access your bookmarks from any device with internet
+- **Offline Support** - Works offline with local storage backup
+- **Persistent Sign-in** - Stay signed in across browser sessions
 
-### State Management & API
-- **TanStack React Query** - Powerful server state management
-- **Axios** - HTTP client for API requests
-- **Custom Hooks** - Reusable logic for API interactions
+### 🆓 Always Free
+- **Completely Free** - No subscription fees, ever
+- **No Ads** - Clean, distraction-free interface
+- **No Limits** - Unlimited bookmarks and tabs
+- **Privacy First** - Your data stays in your Google Drive
 
-### Development Tools
-- **ESLint** - Code linting and quality assurance
-- **TypeScript Compiler** - Type checking and compilation
-- **Hot Module Replacement** - Fast development with instant updates
-- **Pre-commit Hooks** - Automated code quality checks before commits
-- **Knip** - Unused dependency and export detection
-- **GitHub Actions** - Automated CI/CD pipeline for deployment
+### 🔧 User Experience
+- **Modern Interface** - Clean, intuitive design with Ant Design components
+- **Responsive Design** - Works perfectly on desktop, tablet, and mobile
+- **Fast & Lightweight** - Quick loading and smooth performance
+- **Easy Setup** - Get started in minutes with Google sign-in
 
 ## 📦 What's Included
 
