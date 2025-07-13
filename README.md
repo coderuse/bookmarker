@@ -72,7 +72,7 @@ A modern, feature-rich React TypeScript starter template with a comprehensive te
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd react-starter-template
+   cd bookmarker
    ```
 
 2. Install dependencies:
@@ -140,7 +140,7 @@ The workflow automatically builds and deploys your application whenever you push
 ## 📁 Project Structure
 
 ```
-react-starter-template/
+bookmarker/
 ├── .github/
 │   └── workflows/        # GitHub Actions workflows
 │       └── deploy.yml    # Build and deploy workflow
